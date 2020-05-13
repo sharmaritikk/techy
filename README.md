@@ -1,1 +1,1 @@
-# techy
+# EDA Titanic
